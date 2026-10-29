@@ -33,9 +33,12 @@ We introduce **Flow-Corrected Shape Optimization (FCSO)**, an optimizer-correcto
 If you find this work or method useful for your research, please consider citing:
 
 ```bibtex
-@inproceedings{seiler2026flowcorrected,
-  title={Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models},
-  author={Seiler, Emilien and Talabot, Nicolas and Stella, Federico and You, Yingxuan and Fua, Pascal},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2026}
+@misc{seiler2026flowcorrectedshapeoptimizationtaming,
+      title={Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models}, 
+      author={Emilien Seiler and Nicolas Talabot and Yingxuan You and Federico Stella and Pascal Fua},
+      year={2026},
+      eprint={2608.07199},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.07199}, 
 }
