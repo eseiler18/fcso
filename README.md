@@ -1,7 +1,7 @@
 # Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models
 
 [![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](https://neurips.cc/)
-[![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/pdf/2608.07199)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2608.07199)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://eseiler18.github.io/projects/fcso/)
 
 This repository contains the official PyTorch implementation and benchmarks for the paper:
