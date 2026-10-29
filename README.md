@@ -15,8 +15,7 @@ This repository contains the official PyTorch implementation and benchmarks for 
 
 ### 🚧 Coming Soon
 
-> **Note:** The source code, pre-trained models, and benchmark evaluation suites are currently being prepared for release.  
-> Everything will be made available here shortly. Star ⭐ or watch this repository to stay tuned!
+> **Note:** The source code, is currently being prepared for release.  
 
 ---
 
